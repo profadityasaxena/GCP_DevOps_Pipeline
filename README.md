@@ -14,7 +14,7 @@ In this lab, you will build a complete **Continuous Integration (CI) pipeline** 
 
 You will also create, containerize, and deploy a simple **Flask web app** using Google Cloud-native services.
 
-![DevOps Pipeline](../DevOps_Pipeline.png)
+![DevOps Pipeline](./DevOps_Pipeline.png)
 ---
 
 ## 🎯 Objectives
